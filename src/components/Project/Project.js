@@ -18,10 +18,10 @@ function Project() {
     <CardColumns fluid className='mr-2 ml-2'>
       
       {
-        PData.map((item,index)=>(
+        PData.map((item)=>(
           
           <Zoom {...item.anim}>
-            <Card  key={index}  border="dark">
+            <Card key={item.id} border="dark">
         <Card.Img src={item.imgsrc} varient="top"/>
         <Card.Body>
           <Card.Title >
@@ -32,7 +32,7 @@ function Project() {
           </Card.Text>
         </Card.Body>
         <footer>
-        <Button className="ml-5 mb-3 mr-5" rel="noopener noreferrer" target="blank" href={item.btnurl} variant={(item.buttontitle==='GitHub'?'dark':'success')}>{item.buttontitle}</Button>
+        <Button className="ml-5 mb-3 mr-5" rel="noopener noreferrer" target="blank" href={item.btnurl} variant={(item.buttontitle==='GitHub'||item.buttontitle==='WordPress Site'?'dark':'success')}>{item.buttontitle}</Button>
         </footer>
         </Card>
           </Zoom>
