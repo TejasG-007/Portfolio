@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mateg.tech",
+  "homepage": "https://mateg.tech/",
   "name": "portfolio",
   "version": "0.2.0",
   "private": true,
@@ -23,6 +23,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "copy":"",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
