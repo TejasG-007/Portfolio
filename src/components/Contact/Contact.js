@@ -56,11 +56,11 @@ const Contact = ()=>{
 
  </Form>
   <Col sm className="d-lg-block d-md-block d-none d-sm-none mb-2 p-4" style={{marginLeft:'50%'}}>
-  <Slide left><Button type="submit" target="blank" href={GmailHelper} rel="noopner" sm style={{alignSelf:'center',alignContent:'center',justifyContent:'center'}} variant="dark"><span> <SiIcons.SiGmail color="dark" className="anything" style={{paddingRight:'10px',}} size={30}/></span>G-Mail</Button></Slide>
+  <Slide left><Button type="submit" target="blank" href={GmailHelper} rel="noopener noreferrer" sm style={{alignSelf:'center',alignContent:'center',justifyContent:'center'}} variant="dark"><span> <SiIcons.SiGmail color="dark" className="anything" style={{paddingRight:'10px',}} size={30}/></span>G-Mail</Button></Slide>
   </Col>
   <Col sm className="mb-2 p-4 d-lg-none d-md-none d-xs-flex d-sm-flex">
       <Slide bottom>
-      <Button variant="success" className="col-md-1" href={Wphelper} target="black" rel="noopner"><FaIcons.FaWhatsapp color="#4ac959" className="anything" size={20} color="white"/><span className="p-2">WhatsApp</span></Button>
+      <Button variant="success" className="col-md-1" href={Wphelper} target="black" rel="noopener noreferrer"><FaIcons.FaWhatsapp color="#4ac959" className="anything" size={20} color="white"/><span className="p-2">WhatsApp</span></Button>
       </Slide>
   </Col>
         </Jumbotron>

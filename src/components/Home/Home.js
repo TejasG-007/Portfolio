@@ -50,6 +50,8 @@ const Home = () => {
                                     Strong in design and integration with intuitive problem-solving skills.
                                     Passionate about implementing and launching new projects. Ability to translate
                                     business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+                                    <br></br>
+                                    <Button target="blank" href="https://www.canva.com/design/DAEUmFDJ3bk/1_-DbTbDPqXTaMiiR-fodw/view?utm_content=DAEUmFDJ3bk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" variant="dark">Resume</Button>
                         </div>
                             </Collapse>
                         </Slide>
