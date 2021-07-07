@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.11c9785e.chunk.css",
+    "main.js": "/Portfolio/static/js/main.adb0aaa2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.adb0aaa2.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.54e4195c.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.54e4195c.js.map",
+    "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.e763ea51.chunk.js": "/Portfolio/static/js/2.e763ea51.chunk.js",
+    "static/js/2.e763ea51.chunk.js.map": "/Portfolio/static/js/2.e763ea51.chunk.js.map",
+    "static/js/3.4e18a22e.chunk.js": "/Portfolio/static/js/3.4e18a22e.chunk.js",
+    "static/js/3.4e18a22e.chunk.js.map": "/Portfolio/static/js/3.4e18a22e.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.11c9785e.chunk.css.map": "/Portfolio/static/css/main.11c9785e.chunk.css.map",
+    "static/js/2.e763ea51.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e763ea51.chunk.js.LICENSE.txt",
+    "static/media/banner.07508ea8.jpg": "/Portfolio/static/media/banner.07508ea8.jpg",
+    "static/media/best.7b9e0cc9.jpg": "/Portfolio/static/media/best.7b9e0cc9.jpg",
+    "static/media/best2.2a86ccd2.jpg": "/Portfolio/static/media/best2.2a86ccd2.jpg",
+    "static/media/bmi.eeef02f1.jpg": "/Portfolio/static/media/bmi.eeef02f1.jpg",
+    "static/media/firstY.43142b3c.jpg": "/Portfolio/static/media/firstY.43142b3c.jpg",
+    "static/media/flutterportfolio.0cbbaf8a.PNG": "/Portfolio/static/media/flutterportfolio.0cbbaf8a.PNG",
+    "static/media/itplanet.afac9b09.JPG": "/Portfolio/static/media/itplanet.afac9b09.JPG",
+    "static/media/portfolio.3dec0c26.JPG": "/Portfolio/static/media/portfolio.3dec0c26.JPG",
+    "static/media/quotes.e392bc9a.jpg": "/Portfolio/static/media/quotes.e392bc9a.jpg",
+    "static/media/school.734c4704.JPG": "/Portfolio/static/media/school.734c4704.JPG",
+    "static/media/shayari.63105f93.jpg": "/Portfolio/static/media/shayari.63105f93.jpg",
+    "static/media/tejasg.3d03136a.gif": "/Portfolio/static/media/tejasg.3d03136a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e4195c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e763ea51.chunk.js",
+    "static/css/main.11c9785e.chunk.css",
+    "static/js/main.adb0aaa2.chunk.js"
+  ]
+}
